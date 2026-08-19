@@ -1,29 +1,176 @@
 {
   "financial": [
-    {"name":"우리금융지주","info":"국내 최대 금융지주, 저평가 매력","yield_rate":"4.18%","dividend_amount":"220원","more_url":"https://kr.investing.com/equities/woori-financial-dividends"},
-    {"name":"기업은행","info":"국책은행, 중소기업 대출의 강자","yield_rate":"4.45%","dividend_amount":"1,048원","more_url":"https://kr.investing.com/equities/industrial-bank-of-korea-dividends"},
-    {"name":"BNK금융지주","info":"부산은행 모기업, 지방금융 1위","yield_rate":"4.45%","dividend_amount":"150원","more_url":"https://kr.investing.com/equities/bs-financial-group-dividends"},
-    {"name":"JB금융지주","info":"전북·광주은행 지주, 배당수익률 최상위","yield_rate":"5.37%","dividend_amount":"314원","more_url":"https://kr.investing.com/equities/jb-financial-dividends"},
-    {"name":"신한지주","info":"리딩금융 경쟁 주역, 해외사업 다각화","yield_rate":"2.76%","dividend_amount":"740원","more_url":"https://kr.investing.com/equities/shinhan-financial-group-dividends"},
-    {"name":"KB금융","info":"리딩금융 1위, 압도적 순이익 규모","yield_rate":"5.24%","dividend_amount":"3,460원","more_url":"https://kr.investing.com/equities/kb-financial-group-dividends"},
-    {"name":"하나금융지주","info":"글로벌 네트워크 강점의 금융지주","yield_rate":"3.37%","dividend_amount":"1,145원","more_url":"https://kr.investing.com/equities/hana-financial-dividends"}
+    {
+      "name": "JB금융지주",
+      "info": "전북·광주은행 지주, 배당수익률 최상위",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "5.37%",
+      "dividend_amount": "314원",
+      "more_url": "https://kr.investing.com/equities/jb-financial-dividends"
+    },
+    {
+      "name": "KB금융",
+      "info": "리딩금융 1위, 압도적 순이익 규모",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "5.24%",
+      "dividend_amount": "3,460원",
+      "more_url": "https://kr.investing.com/equities/kb-financial-group-dividends"
+    },
+    {
+      "name": "기업은행",
+      "info": "국책은행, 중소기업 대출의 강자",
+      "dividend_cycle": "연배당",
+      "yield_rate": "4.45%",
+      "dividend_amount": "1,048원",
+      "more_url": "https://kr.investing.com/equities/industrial-bank-of-korea-dividends"
+    },
+    {
+      "name": "BNK금융지주",
+      "info": "부산은행 모기업, 지방금융 1위",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "4.45%",
+      "dividend_amount": "150원",
+      "more_url": "https://kr.investing.com/equities/bs-financial-group-dividends"
+    },
+    {
+      "name": "우리금융지주",
+      "info": "국내 최대 금융지주, 저평가 매력",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "4.18%",
+      "dividend_amount": "220원",
+      "more_url": "https://kr.investing.com/equities/woori-financial-dividends"
+    },
+    {
+      "name": "하나금융지주",
+      "info": "글로벌 네트워크 강점의 금융지주",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "3.37%",
+      "dividend_amount": "1,145원",
+      "more_url": "https://kr.investing.com/equities/hana-financial-dividends"
+    },
+    {
+      "name": "신한지주",
+      "info": "리딩금융 경쟁 주역, 해외사업 다각화",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "2.76%",
+      "dividend_amount": "740원",
+      "more_url": "https://kr.investing.com/equities/shinhan-financial-group-dividends"
+    }
   ],
   "quarterly": [
-    {"name":"KB금융","info":"리딩금융 1위, 압도적 순이익 규모","yield_rate":"5.24%","dividend_amount":"3,460원","more_url":"https://kr.investing.com/equities/kb-financial-group-dividends"},
-    {"name":"신한지주","info":"리딩금융 경쟁 주역, 해외사업 다각화","yield_rate":"2.76%","dividend_amount":"740원","more_url":"https://kr.investing.com/equities/shinhan-financial-group-dividends"},
-    {"name":"하나금융지주","info":"글로벌 네트워크 강점의 금융지주","yield_rate":"3.37%","dividend_amount":"1,145원","more_url":"https://kr.investing.com/equities/hana-financial-dividends"},
-    {"name":"우리금융지주","info":"국내 최대 금융지주, 저평가 매력","yield_rate":"4.18%","dividend_amount":"220원","more_url":"https://kr.investing.com/equities/woori-financial-dividends"},
-    {"name":"삼성전자","info":"반도체 대장주, 국내 시총 1위","yield_rate":"0.46%","dividend_amount":"367원","more_url":"https://kr.investing.com/equities/samsung-electronics-co-ltd-dividends"},
-    {"name":"SK텔레콤","info":"이동통신 1위, AI 사업 확장 중","yield_rate":"1.66%","dividend_amount":"830원","more_url":"https://kr.investing.com/equities/sk-telecom-co-ltd-dividends"},
-    {"name":"POSCO홀딩스","info":"국내 최대 철강사, 2차전지 소재","yield_rate":"2.12%","dividend_amount":"2,000원","more_url":"https://kr.investing.com/equities/posco-inc-dividends"}
+    {
+      "name": "KB금융",
+      "info": "리딩금융 1위, 압도적 순이익 규모",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "5.24%",
+      "dividend_amount": "3,460원",
+      "more_url": "https://kr.investing.com/equities/kb-financial-group-dividends"
+    },
+    {
+      "name": "우리금융지주",
+      "info": "국내 최대 금융지주, 저평가 매력",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "4.18%",
+      "dividend_amount": "220원",
+      "more_url": "https://kr.investing.com/equities/woori-financial-dividends"
+    },
+    {
+      "name": "하나금융지주",
+      "info": "글로벌 네트워크 강점의 금융지주",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "3.37%",
+      "dividend_amount": "1,145원",
+      "more_url": "https://kr.investing.com/equities/hana-financial-dividends"
+    },
+    {
+      "name": "신한지주",
+      "info": "리딩금융 경쟁 주역, 해외사업 다각화",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "2.76%",
+      "dividend_amount": "740원",
+      "more_url": "https://kr.investing.com/equities/shinhan-financial-group-dividends"
+    },
+    {
+      "name": "POSCO홀딩스",
+      "info": "국내 최대 철강사, 2차전지 소재",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "2.12%",
+      "dividend_amount": "2,000원",
+      "more_url": "https://kr.investing.com/equities/posco-inc-dividends"
+    },
+    {
+      "name": "SK텔레콤",
+      "info": "이동통신 1위, AI 사업 확장 중",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "1.66%",
+      "dividend_amount": "830원",
+      "more_url": "https://kr.investing.com/equities/sk-telecom-co-ltd-dividends"
+    },
+    {
+      "name": "삼성전자",
+      "info": "반도체 대장주, 국내 시총 1위",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "0.46%",
+      "dividend_amount": "367원",
+      "more_url": "https://kr.investing.com/equities/samsung-electronics-co-ltd-dividends"
+    }
   ],
   "premium": [
-    {"name":"SK텔레콤","info":"이동통신 1위, AI 사업 확장 중","yield_rate":"1.66%","dividend_amount":"830원","more_url":"https://kr.investing.com/equities/sk-telecom-co-ltd-dividends"},
-    {"name":"현대차","info":"글로벌 완성차 3위권, 전기차 전환","yield_rate":"2.30%","dividend_amount":"2,500원","more_url":"https://kr.investing.com/equities/hyundai-motor-dividends"},
-    {"name":"POSCO홀딩스","info":"국내 최대 철강사, 2차전지 소재","yield_rate":"2.12%","dividend_amount":"2,000원","more_url":"https://kr.investing.com/equities/posco-inc-dividends"},
-    {"name":"KT&G","info":"담배·홍삼 독점적 지위의 우량주","yield_rate":"3.34%","dividend_amount":"4,600원","more_url":"https://kr.investing.com/equities/kt-g-corp-dividends"},
-    {"name":"KT","info":"유선통신 강자, 자회사 다수 보유","yield_rate":"4.41%","dividend_amount":"600원","more_url":"https://kr.investing.com/equities/kt-corporation-dividends"},
-    {"name":"삼성전자","info":"반도체 대장주, 국내 시총 1위","yield_rate":"0.46%","dividend_amount":"367원","more_url":"https://kr.investing.com/equities/samsung-electronics-co-ltd-dividends"},
-    {"name":"KB금융","info":"리딩금융 1위, 압도적 순이익 규모","yield_rate":"5.24%","dividend_amount":"3,460원","more_url":"https://kr.investing.com/equities/kb-financial-group-dividends"}
+    {
+      "name": "KB금융",
+      "info": "리딩금융 1위, 압도적 순이익 규모",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "5.24%",
+      "dividend_amount": "3,460원",
+      "more_url": "https://kr.investing.com/equities/kb-financial-group-dividends"
+    },
+    {
+      "name": "KT",
+      "info": "유선통신 강자, 자회사 다수 보유",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "4.41%",
+      "dividend_amount": "600원",
+      "more_url": "https://kr.investing.com/equities/kt-corporation-dividends"
+    },
+    {
+      "name": "KT&G",
+      "info": "담배·홍삼 독점적 지위의 우량주",
+      "dividend_cycle": "반기배당",
+      "yield_rate": "3.34%",
+      "dividend_amount": "4,600원",
+      "more_url": "https://kr.investing.com/equities/kt-g-corp-dividends"
+    },
+    {
+      "name": "현대차",
+      "info": "글로벌 완성차 3위권, 전기차 전환",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "2.30%",
+      "dividend_amount": "2,500원",
+      "more_url": "https://kr.investing.com/equities/hyundai-motor-dividends"
+    },
+    {
+      "name": "POSCO홀딩스",
+      "info": "국내 최대 철강사, 2차전지 소재",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "2.12%",
+      "dividend_amount": "2,000원",
+      "more_url": "https://kr.investing.com/equities/posco-inc-dividends"
+    },
+    {
+      "name": "SK텔레콤",
+      "info": "이동통신 1위, AI 사업 확장 중",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "1.66%",
+      "dividend_amount": "830원",
+      "more_url": "https://kr.investing.com/equities/sk-telecom-co-ltd-dividends"
+    },
+    {
+      "name": "삼성전자",
+      "info": "반도체 대장주, 국내 시총 1위",
+      "dividend_cycle": "분기배당",
+      "yield_rate": "0.46%",
+      "dividend_amount": "367원",
+      "more_url": "https://kr.investing.com/equities/samsung-electronics-co-ltd-dividends"
+    }
   ]
 }
