@@ -107,12 +107,12 @@
       "more_url": "https://kr.investing.com/equities/sk-telecom-co-ltd-dividends"
     },
     {
-      "name": "삼성전자",
-      "info": "반도체 대장주, 국내 시총 1위",
+      "name": "삼성전자우",
+      "info": "삼성전자 우선주, 배당수익률 프리미엄",
       "dividend_cycle": "분기배당",
-      "yield_rate": "0.46%",
+      "yield_rate": "0.67%",
       "dividend_amount": "367원",
-      "more_url": "https://kr.investing.com/equities/samsung-electronics-co-ltd-dividends"
+      "more_url": "https://kr.investing.com/equities/samsung-electronics-co-pref-dividends"
     }
   ],
   "premium": [
