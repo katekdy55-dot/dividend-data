@@ -1,23 +1,176 @@
 {
   "financial": [
-    {"name":"삼성전자","info":"국내 시총 1위, 꾸준한 분기배당 대표주","dividend_cycle":"분기 4회","yield_rate":"2.1%","dividend_amount":"361원","more_url":"https://parkgolf.kdybest.com/"},
-    {"name":"SK하이닉스","info":"반도체 업황 회복과 함께 배당 재개","dividend_cycle":"분기 4회","yield_rate":"1.4%","dividend_amount":"300원","more_url":""},
-    {"name":"KT&G","info":"10년 연속 배당 확대해온 안정 배당주","dividend_cycle":"연 2회","yield_rate":"5.8%","dividend_amount":"4,800원","more_url":""},
-    {"name":"우리금융지주","info":"은행주 중 배당수익률 상위권","dividend_cycle":"분기 4회","yield_rate":"6.9%","dividend_amount":"180원","more_url":""},
-    {"name":"삼성증권","info":"증권업 중 배당성향 높은 편","dividend_cycle":"연 1회","yield_rate":"4.3%","dividend_amount":"2,200원","more_url":""}
+    {
+      "name": "우리금융지주",
+      "info": "4대 금융지주 중 배당수익률 상위, 분기배당 실시",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "4.18%",
+      "dividend_amount": "220원",
+      "more_url": "https://kr.investing.com/equities/woori-financial-dividends"
+    },
+    {
+      "name": "기업은행",
+      "info": "정책금융기관 특성상 높은 배당수익률을 보이는 대표 금융주",
+      "dividend_cycle": "연 2회",
+      "yield_rate": "6.23%",
+      "dividend_amount": "210원",
+      "more_url": "https://kr.investing.com/equities/industrial-bank-of-korea-dividends"
+    },
+    {
+      "name": "BNK금융지주",
+      "info": "지방금융지주 중 높은 배당수익률을 보이는 고배당주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "5.33%",
+      "dividend_amount": "150원",
+      "more_url": "https://kr.investing.com/equities/bs-financial-group-dividends"
+    },
+    {
+      "name": "JB금융지주",
+      "info": "높은 ROE와 적극적인 주주환원 정책을 갖춘 고배당 금융주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "5.20%",
+      "dividend_amount": "314원",
+      "more_url": "https://kr.investing.com/equities/jb-financial-dividends"
+    },
+    {
+      "name": "신한지주",
+      "info": "분기배당을 실시하며 지속적인 주주가치 제고를 추진하는 금융주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "2.90%",
+      "dividend_amount": "740원",
+      "more_url": "https://kr.investing.com/equities/shinhan-financial-group-dividends"
+    },
+    {
+      "name": "KB금융",
+      "info": "리딩 금융그룹으로 높은 배당 가시성과 분기배당을 갖춘 금융주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "2.83%",
+      "dividend_amount": "1,155원",
+      "more_url": "https://kr.investing.com/equities/kb-financial-group-dividends"
+    },
+    {
+      "name": "하나금융지주",
+      "info": "주주환원 확대 정책과 안정적인 이익 창출력을 갖춘 고배당 금융주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "3.44%",
+      "dividend_amount": "1,155원",
+      "more_url": "https://kr.investing.com/equities/hana-financial-dividends"
+    }
   ],
   "quarterly": [
-    {"name":"삼성전자우","info":"우선주 프리미엄, 배당수익률 보통주 상회","dividend_cycle":"분기 4회","yield_rate":"2.6%","dividend_amount":"362원","more_url":"https://parkgolf.kdybest.com/"},
-    {"name":"현대모비스","info":"부품 대장주, 꾸준한 분기 현금배당","dividend_cycle":"분기 4회","yield_rate":"3.4%","dividend_amount":"1,300원","more_url":""},
-    {"name":"삼성카드","info":"카드업계 대표 분기배당주","dividend_cycle":"분기 4회","yield_rate":"5.9%","dividend_amount":"400원","more_url":""},
-    {"name":"오리온","info":"식품업 대표, 실적과 함께 배당 확대","dividend_cycle":"분기 4회","yield_rate":"1.9%","dividend_amount":"350원","more_url":""},
-    {"name":"LG유플러스","info":"통신 3사 중 분기배당 도입 종목","dividend_cycle":"분기 4회","yield_rate":"5.5%","dividend_amount":"140원","more_url":""}
+    {
+      "name": "KB금융",
+      "info": "리딩 금융그룹으로 높은 배당 가시성과 분기배당을 갖춘 금융주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "2.83%",
+      "dividend_amount": "1,155원",
+      "more_url": "https://kr.investing.com/equities/kb-financial-group-dividends"
+    },
+    {
+      "name": "신한지주",
+      "info": "분기배당을 실시하며 지속적인 주주가치 제고를 추진하는 금융주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "2.90%",
+      "dividend_amount": "740원",
+      "more_url": "https://kr.investing.com/equities/shinhan-financial-group-dividends"
+    },
+    {
+      "name": "하나금융지주",
+      "info": "주주환원 확대 정책과 안정적인 이익 창출력을 갖춘 고배당 금융주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "3.44%",
+      "dividend_amount": "1,155원",
+      "more_url": "https://kr.investing.com/equities/hana-financial-dividends"
+    },
+    {
+      "name": "우리금융지주",
+      "info": "4대 금융지주 중 배당수익률 상위, 분기배당 실시",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "4.18%",
+      "dividend_amount": "220원",
+      "more_url": "https://kr.investing.com/equities/woori-financial-dividends"
+    },
+    {
+      "name": "삼성전자",
+      "info": "국내 대표 반도체 기업으로 안정적인 분기배당을 실시하는 우량주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "0.44%",
+      "dividend_amount": "374원",
+      "more_url": "https://kr.investing.com/equities/samsung-electronics-co-ltd-dividends"
+    },
+    {
+      "name": "SK텔레콤",
+      "info": "통신 대표주로 안정적인 현금흐름을 기반으로 배당을 지급하는 우량주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "1.93%",
+      "dividend_amount": "830원",
+      "more_url": "https://kr.investing.com/equities/sk-telecom-co-ltd-dividends"
+    },
+    {
+      "name": "POSCO홀딩스",
+      "info": "철강 대표 대형주로 분기배당을 실시하는 고배당 우량주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "2.12%",
+      "dividend_amount": "2,000원",
+      "more_url": "https://kr.investing.com/equities/posco-inc-dividends"
+    }
   ],
   "premium": [
-    {"name":"메리츠금융지주","info":"자사주 소각 병행하는 주주환원 우량주","dividend_cycle":"분기 4회","yield_rate":"3.1%","dividend_amount":"800원","more_url":"https://parkgolf.kdybest.com/"},
-    {"name":"한국타이어앤테크놀로지","info":"타이어 업종 대표 고배당 우량주","dividend_cycle":"연 2회","yield_rate":"4.9%","dividend_amount":"1,600원","more_url":""},
-    {"name":"맥쿼리인프라","info":"인프라 펀드형, 안정적 고배당 대표주","dividend_cycle":"연 2회","yield_rate":"6.5%","dividend_amount":"390원","more_url":""},
-    {"name":"삼성카드","info":"카드업 우량주, 재무 안정성 우수","dividend_cycle":"연 1회","yield_rate":"5.2%","dividend_amount":"1,200원","more_url":""},
-    {"name":"현대차2우B","info":"우선주 프리미엄형 고배당 우량주","dividend_cycle":"분기 4회","yield_rate":"5.9%","dividend_amount":"2,050원","more_url":""}
+    {
+      "name": "SK텔레콤",
+      "info": "통신 대표주로 안정적인 현금흐름을 기반으로 배당을 지급하는 우량주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "1.93%",
+      "dividend_amount": "830원",
+      "more_url": "https://kr.investing.com/equities/sk-telecom-co-ltd-dividends"
+    },
+    {
+      "name": "현대차",
+      "info": "실적과 주주환원 확대를 바탕으로 배당 매력이 높아진 대표 자동차 우량주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "2.44%",
+      "dividend_amount": "2,500원",
+      "more_url": "https://kr.investing.com/equities/hyundai-motor-dividends"
+    },
+    {
+      "name": "POSCO홀딩스",
+      "info": "철강 대표 대형주로 분기배당을 실시하는 고배당 우량주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "2.12%",
+      "dividend_amount": "2,000원",
+      "more_url": "https://kr.investing.com/equities/posco-inc-dividends"
+    },
+    {
+      "name": "KT&G",
+      "info": "안정적인 현금창출력을 바탕으로 꾸준한 배당을 지급하는 대표 고배당 우량주",
+      "dividend_cycle": "연 2회",
+      "yield_rate": "3.67%",
+      "dividend_amount": "2,000원",
+      "more_url": "https://kr.investing.com/equities/kt-g-corp-dividends"
+    },
+    {
+      "name": "KT",
+      "info": "통신 본업의 안정적인 실적을 바탕으로 꾸준한 배당을 지급하는 우량주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "4.41%",
+      "dividend_amount": "600원",
+      "more_url": "https://kr.investing.com/equities/kt-corporation-dividends"
+    },
+    {
+      "name": "삼성전자",
+      "info": "국내 대표 반도체 기업으로 안정적인 분기배당을 실시하는 우량주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "0.44%",
+      "dividend_amount": "374원",
+      "more_url": "https://kr.investing.com/equities/samsung-electronics-co-ltd-dividends"
+    },
+    {
+      "name": "KB금융",
+      "info": "리딩 금융그룹으로 높은 배당 가시성과 분기배당을 갖춘 금융주",
+      "dividend_cycle": "분기 4회",
+      "yield_rate": "2.83%",
+      "dividend_amount": "1,155원",
+      "more_url": "https://kr.investing.com/equities/kb-financial-group-dividends"
+    }
   ]
 }
